@@ -13,7 +13,7 @@ Welcome to my personal portfolio! I'm a passionate software developer and data e
 - ✅ Technologies: **Python, Scikit-learn, Pandas**
 - 🎯 [Explore the Project](https://github.com/lankajaswanth/Chronic-kidney-disease-prediction)
 
-### 📊 Job Market Analysis 2.0
+### 📊 Job Market Analysis 
 - ✅ **Scraped job data from Naukri** using **Power Automate**. 
 - ✅ Created **interactive Tableau dashboards** for insights.
 - ✅ Technologies: **Power Automate, Tableau, Excel**
