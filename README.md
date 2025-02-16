@@ -1,4 +1,4 @@
-# 🎯 Lanka Jaswanth – Personal Portfolio
+# 🎯 Lanka Jaswanth 
 
 
 
