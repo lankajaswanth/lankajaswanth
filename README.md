@@ -2,7 +2,7 @@
 
 
 
-Welcome to my personal portfolio! I'm a passionate software developer and data enthusiast pursuing my **Master's in Computer Science at Purdue University**. My journey involves working on innovative projects across **machine learning**, **web development**, and **data visualization**, with a focus on impactful results and continuous growth.
+Welcome to my portfolio! I'm pursuing my **Master's in Computer Science at Purdue University**. My journey involves working on innovative projects across **machine learning**, **web development**, and **data visualization**, with a focus on impactful results and continuous growth.
 
 ---
 
