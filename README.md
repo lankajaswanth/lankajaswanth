@@ -1,12 +1,8 @@
-# 🎯 Lanka Jaswanth 
+# 🎯 Lanka Jaswanth - Purdue University(MS in CS)
 
 
 
-Welcome to my portfolio! I'm pursuing my **Master's in Computer Science at Purdue University**. My journey involves working on innovative projects across **machine learning**, **web development**, and **data visualization**, with a focus on impactful results and continuous growth.
-
----
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🌟 Chronic Kidney Disease Prediction
 - ✅ **Built a high-accuracy ensemble ML model** achieving **99.33% accuracy**. 
