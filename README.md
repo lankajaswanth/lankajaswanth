@@ -34,22 +34,7 @@
 - 📊 **SPM Group 3 UI Admin:** Admin dashboard for software task management. [View Project](https://github.com/lankajaswanth/SPM-Group3-UI-Admin)
 - 📡 **DS2OS Traffic Traces:** Smart home system traffic datasets. [View Project](https://github.com/lankajaswanth/DS2OS-TRAFFIC-TRACES)
 
----
 
-## 💼 Professional Experience
-### **CS Lab Manager** | Purdue University Fort Wayne *(Aug 2024 – Present)*
-- 🗂️ Managed **multiple independent projects** and research initiatives.
-- 🧩 Created a **CS department job portal** using **Bubble No-code tool**.
-- 🛠️ Built a **Proxmox server** for project testing with virtual machines.
-
-### **Independent Study Project – HVAC Thermal System** *(Dec 2023 – Aug 2024)*
-- 👨‍💻 Led a **team of three** on AR-based HVAC troubleshooting system.
-- 🎯 Used **Unity, AR Core, Vuforia**, and **AR Foundation**.
-
-### **Undergraduate IT Tutor** *(Dec 2023 – Present)*
-- 🧑‍🏫 Provided **IT subject tutoring** for undergraduate students.
-
----
 
 ## 🛠️ Skills & Technologies
 
